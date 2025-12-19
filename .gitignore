@@ -1,0 +1,38 @@
+# Flutter
+.dart_tool
+build
+android/
+ app/
+  src/
+   debug
+   profile
+   main/
+    java
+    kotlin
+.gradle
+.kotlin
+gradle
+.flutter-plugins-dependencies
+ios
+linux
+macos
+test
+web
+windows
+.flutter-plugins-dependencies
+.gitattributes
+.metadata
+analysis_options.yaml
+pubspec.lock
+upnepa.iml
+README.md
+# IDEs
+.vscode/
+.idea/
+
+# Logs & temp
+*.log
+temp/
+
+# Secrets
+lib/secrets/
